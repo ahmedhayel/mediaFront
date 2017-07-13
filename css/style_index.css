@@ -1,0 +1,20 @@
+.login {
+	margin: 10% 30%;
+	background-color: white;
+	border-radius: 10px;
+}
+
+body {
+	background-image: url('./images/gmailBack.jpg');
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.tab_marge {
+	margin: 20px;
+}
+
+.error {
+	color: red;
+	display:none;
+}
